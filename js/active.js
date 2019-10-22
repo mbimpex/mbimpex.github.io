@@ -12,7 +12,7 @@
 
     // :: 2.0 Nav Active Code
     if ($.fn.classyNav) {
-        $('#alazeaNav').classyNav();
+        $('#mbimpexNav').classyNav();
     }
 
     // :: 3.0 Search Active Code
@@ -70,7 +70,7 @@
 
     // :: 5.0 Masonary Gallery Active Code
     if ($.fn.imagesLoaded) {
-        $('.alazea-portfolio').imagesLoaded(function () {
+        $('.mbimpex-portfolio').imagesLoaded(function () {
             // filter items on button click
             $('.portfolio-filter').on('click', 'button', function () {
                 var filterValue = $(this).attr('data-filter');
@@ -79,7 +79,7 @@
                 });
             });
             // init Isotope
-            var $grid = $('.alazea-portfolio').isotope({
+            var $grid = $('.mbimpex-portfolio').isotope({
                 itemSelector: '.single_portfolio_item',
                 percentPosition: true,
                 masonry: {
@@ -148,7 +148,7 @@
 
     // :: 10.0 Sticky Active Code
     if ($.fn.sticky) {
-        $(".alazea-main-menu").sticky({
+        $(".mbimpex-main-menu").sticky({
             topSpacing: 0
         });
     }
