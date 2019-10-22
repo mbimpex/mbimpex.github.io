@@ -345,9 +345,9 @@ img {
     }
 }
 
-/* :: 3.8.0 alazea Button */
+/* :: 3.8.0 mbimpex Button */
 
-.alazea-btn {
+.mbimpex-btn {
     @include trans-duration(400ms);
     position: relative;
     z-index: 1;
@@ -481,7 +481,7 @@ img {
         }
     }
 
-    .alazea-main-menu {
+    .mbimpex-main-menu {
         position: relative;
         z-index: 1;
         @include trans-duration(200ms);
@@ -631,7 +631,7 @@ img {
         }
     }
     .is-sticky {
-        .alazea-main-menu {
+        .mbimpex-main-menu {
             background-color: $dark-color;
             position: fixed;
             width: 100%;
@@ -1783,7 +1783,7 @@ img {
     }
 }
 
-.alazea-progress-bar {
+.mbimpex-progress-bar {
     position: relative;
     z-index: 1;
     margin-top: 40px;
@@ -1873,7 +1873,7 @@ img {
     }
 }
 
-.alazea-video-area {
+.mbimpex-video-area {
     position: relative;
     z-index: 1;
     border-radius: 6px;
@@ -1962,7 +1962,7 @@ img {
 
 /* :: 15.0 Portfolio Area CSS */
 
-.alazea-portfolio-filter {
+.mbimpex-portfolio-filter {
     position: relative;
     z-index: 1;
     text-align: center;
@@ -1987,7 +1987,7 @@ img {
     }
 }
 
-.alazea-portfolio {
+.mbimpex-portfolio {
     &.row {
         margin-right: -10px;
         margin-left: -10px;
