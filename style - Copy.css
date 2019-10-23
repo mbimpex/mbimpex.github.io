@@ -316,6 +316,7 @@ img {
         line-height: 1; }
         .header-area .top-header-area .top-header-content .top-header-meta a:first-child {
           margin-right: 30px; }
+        .header-area .top-header-area .top-header-content .top-header-meta a i {
           margin-right: 5px;
           color: #b01e1e; }
         @media only screen and (max-width: 767px) {
