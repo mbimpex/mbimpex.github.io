@@ -480,14 +480,14 @@ img {
 
 .about {
     background-color: #fff;
-    margin-bottom: 65px;
+    margin-bottom: 40px;
 }
 
 .about .banner-heading p {
     color: #555655;
     padding: 0 200px 30px 200px;
     text-align: center;
-    line-height: 26px;
+    line-height: 16px;
 }
 
 .about .about-inner-content {
