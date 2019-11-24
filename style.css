@@ -1769,6 +1769,7 @@ img {
     z-index: 1;
     margin-bottom: 15px; }
     .footer-area .single-footer-widget p {
+		 font-size: 14px;
       color: #b7b7b7;
       margin-bottom: 12px; }
     .footer-area .single-footer-widget .social-info a {
@@ -1791,7 +1792,7 @@ img {
         border-color: #b01e1e;
         background-color: #b01e1e; }
     .footer-area .single-footer-widget .widget-title h5 {
-      font-size: 1px;
+      font-size: 18px;
       color: #ffffff;
       text-transform: uppercase;
       margin-bottom: 22px; }
