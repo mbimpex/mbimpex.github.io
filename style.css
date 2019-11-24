@@ -1784,8 +1784,8 @@ img {
       line-height: 22px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .footer-area .single-footer-widget .social-info a {
-          width: 30px;
-          height: 30px;
+          width: 40px;
+          height: 40px;
           line-height: 25px;
           font-size: 15px; } }
       .footer-area .single-footer-widget .social-info a:hover, .footer-area .single-footer-widget .social-info a:focus {
