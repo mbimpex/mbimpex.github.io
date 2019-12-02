@@ -78,7 +78,7 @@ ol {
 }
 
 img {
-    height: auto;
+    height: 100%;
     max-width: 100%;
 }
 
@@ -789,7 +789,7 @@ img {
             input {
                 @include trans-duration(500ms);
                 width: 100%;
-                height: 46px;
+                height: 100%;
                 background-color: $white-color;
                 padding: 10px 20px;
                 border: none;
