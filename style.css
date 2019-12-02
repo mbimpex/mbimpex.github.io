@@ -1589,15 +1589,11 @@ img {
   z-index: 0;
   margin-top: 10px;
   overflow: hidden;
-  height: 500px;
+  height: 480px;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms; }
-  @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .single_portfolio_item {
-      height: 290px; } }
-  @media only screen and (max-width: 767px) {
-    .single_portfolio_item {
-      height: 300px; } }
+
+   
   .single_portfolio_item .portfolio-thumbnail {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
