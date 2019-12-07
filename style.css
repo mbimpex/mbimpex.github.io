@@ -2422,9 +2422,10 @@ img {
     border: none;
     margin-bottom: 0;
     border-radius: 5px; }
-    @media only screen and (max-width: 767px) {
+    @media only screen and (min-width: 280px) and (max-width: 500px {
       .map-area iframe {
-        height: 320px; } }
+        height: 90px; } }
+		
 
 .contact-form-area .form-control {
   position: relative;
