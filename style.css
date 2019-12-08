@@ -2390,8 +2390,9 @@ img {
     margin-bottom: 0;
     border-radius: 5px; }
      @media only screen and (max-width: 767px) {
-    .map-area {
-      height: 260px; } }
+    .map-area iframe {
+      height: 260px; 
+      width: 200px; } }
 
 .contact-form-area .form-control {
   position: relative;
