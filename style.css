@@ -1398,7 +1398,7 @@ img {
     position: relative;
     width: 0px;
     height: 100%;
-    background: #b01e1e;
+    background: ;
     z-index: 1; }
   .barfiller .tipWrap {
     display: none; }
@@ -1530,9 +1530,7 @@ img {
       .mbinpex-portfolio-filter .btn {
         font-size: 16px;
         padding: 0 5px; } }
-    .mbinpex-portfolio-filter .btn:hover, .mbinpex-portfolio-filter .btn:focus {
-      color: #b01e1e;
-      box-shadow: none; }
+      
 
 .mbinpex-portfolio.row {
   margin-right: -10px;
@@ -1638,24 +1636,8 @@ img {
   -ms-flex-align: center;
   -ms-grid-row-align: center;
   align-items: center; }
-  .mfp-bottom-bar .mfp-title {
-    line-height: normal;
-    color: #ffffff;
-    padding-right: 0;
-    background-color: #b01e1e;
-    padding: 8px 20px;
-    border-radius: 30px;
-    font-size: 12px;
-    font-weight: 700; }
-  .mfp-bottom-bar .mfp-counter {
-    color: #ffffff;
-    position: relative;
-    line-height: normal;
-    background-color: #b01e1e;
-    padding: 8px 20px;
-    border-radius: 30px;
-    font-size: 12px;
-    font-weight: 700; }
+ 
+  
 
 /* :: 16.0 Cool Facts Area CSS */
 .cool-facts-area {
