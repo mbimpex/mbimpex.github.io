@@ -404,13 +404,13 @@ img {
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .header-area .mbimpex-main-menu .classynav ul li a {
           background-color: #111111;
-          font-size: 14px;
+          font-size: 15px;
           color: #ffffff;
           border-bottom: none; } }
       @media only screen and (max-width: 767px) {
         .header-area .mbimpex-main-menu .classynav ul li a {
           background-color: #052412;
-          font-size: 16px;
+          font-size: 18px;
           color: #ffffff;
           border-bottom: none; } }
       .header-area .mbimpex-main-menu .classynav ul li a:hover, .header-area .mbimpex-main-menu .classynav ul li a:focus {
@@ -432,11 +432,11 @@ img {
             color: #ffffff; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
         .header-area .mbimpex-main-menu .classynav ul li ul li a {
-          padding: 0 45px;
+          padding: 15px 30px;
           color: #ffffff; } }
       @media only screen and (max-width: 767px) {
         .header-area .mbimpex-main-menu .classynav ul li ul li a {
-          padding: 15 45px;
+          padding: 15pv 30px;
           color: #ffffff; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .header-area .mbimpex-main-menu .classy-navbar-toggler .navbarToggler span {
