@@ -390,7 +390,7 @@ img {
         line-height: 1; }
       @media only screen and (max-width: 767px) {
         .header-area .mbimpex-main-menu .classy-navbar {
-          height: 60px; } }
+          height: 56px; } }
     .header-area .mbimpex-main-menu .classynav ul li a {
       padding: 0 1+px;
       font-weight: 500;
@@ -409,8 +409,8 @@ img {
           border-bottom: none; } }
       @media only screen and (max-width: 767px) {
         .header-area .mbimpex-main-menu .classynav ul li a {
-          background-color: #111111;
-          font-size: 14px;
+          background-color: #052412;
+          font-size: 16px;
           color: #ffffff;
           border-bottom: none; } }
       .header-area .mbimpex-main-menu .classynav ul li a:hover, .header-area .mbimpex-main-menu .classynav ul li a:focus {
@@ -436,7 +436,7 @@ img {
           color: #ffffff; } }
       @media only screen and (max-width: 767px) {
         .header-area .mbimpex-main-menu .classynav ul li ul li a {
-          padding: 0 45px;
+          padding: 15 45px;
           color: #ffffff; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .header-area .mbimpex-main-menu .classy-navbar-toggler .navbarToggler span {
